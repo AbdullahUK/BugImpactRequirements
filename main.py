@@ -2,7 +2,7 @@
 Copyright (c) 2021 TU-CS Software Engineering Research Group (SERG),
 Date: 22/03/2021
 Name: Software Bug Severity using Machine Learning and Deep Learning
-Version: 1.0
+Version: 1.1
 """
 
 # Import required libraries
